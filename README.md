@@ -63,10 +63,12 @@ Array
     [function_name] => show_blog_post
     [function_parameters] => Array
         (
+            [0] => 123
+            [1] => boom
         )
 
-    [execution_time_start] => 1386254165.9451
-    [execution_time_end] => 1386254165.9451
-    [execution_time_length] => 1.1920928955078E-5
+    [execution_time_start] => 1386255025.0828
+    [execution_time_end] => 1386255025.0828
+    [execution_time_length] => 7.8678131103516E-6
 )
 ```
