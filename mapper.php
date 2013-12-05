@@ -128,6 +128,7 @@ function match_and_call($routes, $base_uri = '/', $request_uri = NULL, &$route_i
         $retval     = call_user_func_array($route['function_name'], $function_parameters);
         $exec_end   = microtime(TRUE);
 
+        $route['function_parameters']   = $function_parameters;
         $route['execution_time_start']  = $exec_start;
         $route['execution_time_end']    = $exec_start;
         $route['execution_time_length'] = (float) $exec_end - (float) $exec_start;
