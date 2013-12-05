@@ -67,8 +67,8 @@ Array
             [1] => boom
         )
 
-    [execution_time_start] => 1386255025.0828
-    [execution_time_end] => 1386255025.0828
-    [execution_time_length] => 7.8678131103516E-6
+    [execution_time_start] => 1386255146.1502
+    [execution_time_end] => 1386255146.1502
+    [execution_time_length] => 1.0013580322266E-5
 )
 ```
